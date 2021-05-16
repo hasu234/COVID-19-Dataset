@@ -9,6 +9,7 @@ Contain informative data related to COVID-19 pandemic. Specially, figure out abo
 “Unspecified”: not available from the authority								
 “N/A”: for “Last Visited Country(s) of Confirmed Case(s)” column, “N/A” indicates that the confirmed case(s) of those countries do not have any travel history in recent past; in “Age of First Death(s)” column “N/A” indicates that those countries do not have may death case till May 16, 2020.	
 
+
 # Article Related to this Datasets
 - [Covid-19 Dataset: Worldwide spread log including countries first case and first death](https://www.sciencedirect.com/science/article/pii/S2352340920310672)
 
