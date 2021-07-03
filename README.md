@@ -2,7 +2,6 @@
 
 Contain informative data related to COVID-19 pandemic. Specially, figure out about the First Case and First Death information for every single country. The datasets mainly focus on two major fields first one is First Case which consists of information of Date of First Case(s), Number of confirm Case(s) at First Day, Age of the patient(s) of First Case, Last Visited Country and the other one First Death information consist of Date of First Death and Age of the Patient who died first for every Country mentioning corresponding Continent.  The datasets also contain the Binary Matrix of spread chain among different country and region. 
 
-
 *This is not a country. This is a ship. The name of the Cruise Ship was not given from the government.								
 "N+":  the age is not specified but greater than N								
 “No Trace”:  some data was not found 								
