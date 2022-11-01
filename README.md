@@ -14,5 +14,5 @@ Contain informative data related to COVID-19 pandemic. Specially, figure out abo
 
 
 
-## Full dataset with necessary complementary data is available in Mendeley Data
+## Full dataset with necessary Supplementary data is available in Mendeley Data
 - [Data for: COVID-19 Dataset: Worldwide Spread Log Including Countries First Case And First Death](https://data.mendeley.com/datasets/vw427wzzkk/5)
